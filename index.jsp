@@ -11,7 +11,7 @@ null && request.getParameter("email")
 <FORM METHOD="GET" ACTION="index.jsp">     
 <P>     
 Your name: <input type="text" name=
-"name" size=26>     
+"Your name" size=26>     
 <P>     
 Your email: <input type="text" name=
 "email" size=26>     
